@@ -1,12 +1,12 @@
 @import "../variables";
 
 .pizza-block {
-	width: 260px;
+	width: 268px;
 	text-align: center;
 	margin-bottom: 65px;
 
 	&:not(:nth-of-type(4n)) {
-		margin-right: 35px;
+		margin-right: 3.7%;
 	}
 
 	&__image {
