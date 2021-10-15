@@ -1,16 +1,29 @@
 ### Интернет-магазин по заказу пиццы - React Pizza :pizza:
 
+- Хостинг проекта
+[Ссылка на проект](https://react-pizza-js.herokuapp.com/)
 ---
-
 ### Запустить проект
+- `npm run json-server`
+- `npm start`
 
-```
-npm run json-server
-npm run start
-```
+### JSON.SERVER 
+- Method: `public/db.json/pizzas?${category !== null ? `category=${category}` : ''
+			}&_sort=${sortBy.type}&_order=${sortBy.order}`
 
-> Хостинг проекта
-> [Ссылка на проект](https://react-pizza-js.herokuapp.com/)
+### Libraries used
+
+- `ReactJS + хуки`
+- `axios`
+- `React Router`
+- `Redux`
+- `Redux thunk`
+- `json-server`
+- `classnames`
+
+### Font
+
+- Font Link: [fonts.google.com](https://fonts.google.com/specimen/Montserrat?query=m)
 
 :arrow_right: :arrow_right: :arrow_right:
 
@@ -26,14 +39,4 @@ npm run start
 
 [![screen4](screen4.png)](https://www.youtube.com/watch?v=bziVFvq8cLQ&list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
 
----
 
-**Stack:**
-
-- [x] ReactJS + хуки
-- [x] React Router
-- [x] Redux
-- [x] Redux thunk
-- [x] json-server
-- [x] Axios
-- [x] classnames
