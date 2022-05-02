@@ -35,8 +35,4 @@
 
 ---
 
-# :video_camera:
-
-[![screen4](screen4.png)](https://www.youtube.com/watch?v=bziVFvq8cLQ&list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
-
 
